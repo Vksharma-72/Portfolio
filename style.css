@@ -1,0 +1,43 @@
+* {
+    background-color: #201658; 
+}
+
+.font{
+    color: whitesmoke; 
+    font-style: italic; 
+    font-size: auto; 
+}
+
+.heightlight {
+    font-weight:bold; 
+}
+ .myskillsbox {
+    display:flex ;
+    height:fit-content;
+    width: 100vw; 
+    justify-content:center; 
+    align-items: center; 
+    
+ }
+
+ .myskilltext {
+    font-size: 5rem ; 
+ }
+
+ .dark-font {
+    color: #000;
+    font-weight: bold; 
+ }
+
+.div-image{
+    height: 100vmax;
+    width: 100vmax; 
+}
+ 
+.Contactme-box{
+    height: 4cm; 
+    width:auto ;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
